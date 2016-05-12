@@ -106,8 +106,6 @@ Questions
 ---------
 For problems or feature suggestions, use the [Issues](https://github.com/TeamNuvolect/MediaMicroCloud/issues) link on this page.
 
-For offline discussion email the developer at team@nuvolect.com or for secure
-email use nuvolect@protonmail.com.
 
 **Be certain to include complete steps for reproducing the issue along with the app version number shown on the bottom of the Settings page.**
 
