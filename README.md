@@ -1,7 +1,7 @@
 Media MicroCloud, Encrypted Photo and File Micro-Cloud Android App
 ==================================================================
 
-Media MicroCloud (MM) is a highly innovative security app for your Android phone or tablet. 
+Media MicroCloud (MM) is an innovative security app for your Android phone or tablet. 
 It combines the CamCipher camera, the IOCipher AES encrypted file system and a Nanohttpd 
 web server.  You can record, save and manage encrypted photos and videos. The encrypted 
 file system can not only protect jpg and mp4 files, but any files you want to keep safe 
