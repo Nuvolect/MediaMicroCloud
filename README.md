@@ -97,6 +97,9 @@ what devices have been tested with this app.
 Additional Documentation
 ------------------------
 
+[Get the app in Google Play](https://play.google.com/store/apps/details?id=com.nuvolect.mediamicrocloud)  
+[Blog](https://nuvolect.com/blog/tags/#Media MicroCloud)  
+
 License
 -------
 
