@@ -45,7 +45,8 @@ the IP address used by the MicroCloud server.
 
 To Secure Your Crypto Volume
 ----------------------------
-Initially the app is wide open. To secure the app you need to define username and password
+Initially the crypto volume is secured with a 32 character key but the app entry lock and 
+web server is wide open. To secure the app you need to define username and password
 for the web app and also enable the entry lock.
 1. Select Settings-Web user credentials and enter a username and password.
 2. Select Settings-Media MicroCloud entry lock and either register your YubiKey 
