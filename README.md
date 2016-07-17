@@ -90,10 +90,9 @@ avoid the "THIS SERVER IS NOT SAFE" warning. Note that a self-signed certificate
 still provides high-grade AES encryption but the certificate cannot be verified as attached
 to a domain name or static IP address, hence the warning.
 
-Tested Devices
+Compatible Devices
 --------------
-The [compatibility status page](https://nuvolect/blog/mm_supported_devices) outlines
-what devices have been tested with this app.
+Android Lollipop 5.0 (SDK 21) or greater.
 
 Additional Documentation
 ------------------------
