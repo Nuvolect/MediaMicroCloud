@@ -1,3 +1,6 @@
+This project is inactive. The core functionality has been integrated 
+into [SecureSuite.](https://github.com/Nuvolect/SecureSuite-Android)
+
 Media MicroCloud, Encrypted Photo and File Micro-Cloud Android App
 ==================================================================
 
